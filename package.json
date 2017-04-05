@@ -1,0 +1,23 @@
+{
+  "name": "capitalize-title",
+  "version": "1.0.0",
+  "description": "Properly capitalize article titles",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a-axton/capitalize-title.git"
+  },
+  "keywords": [
+    "capitalize",
+    "title"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "lib/index.js",
+  "author": "Andy Axton",
+  "license": "MIT",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^3.2.0"
+  }
+}
