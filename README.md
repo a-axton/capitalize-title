@@ -17,7 +17,7 @@ yarn add capitalize-title
 ```
 
 ### Usage
-```
+```js
   import capitalizeTitle from 'capitalize-title';
   console.log(capitalizeTitle('this is an example title'));
   // > "This is an Example Title"
